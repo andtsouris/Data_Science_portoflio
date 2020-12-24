@@ -8,3 +8,5 @@ The data available at https://www.kaggle.com/girardi69/marathon-time-predictions
 
 ### Analysis and prediction
 To assess if I would be able to use this data to predict marathon times I checked for any correlation between the different variables and the actual marathon time of each athlete. 
+![alala](http://github.com/andtsouris/Data_Science_portfolio/multiariate_linera_regression-Marathon_time_predictor/assets/marathonTime_distance_corPlot.jpg)
+![alala](http://github.com/andtsouris/Data_Science_portfolio/multiariate_linera_regression-Marathon_time_predictor/assets/marathonTime_speed_corPlot.jpg)
