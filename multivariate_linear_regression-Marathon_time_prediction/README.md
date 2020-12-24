@@ -7,5 +7,6 @@ Starting a marathon with a wrong pace is detrimental to the athletes performance
 The data available at https://www.kaggle.com/girardi69/marathon-time-predictions contain of 87 athletes. The dataset describes the marathon time and various training data (average speed, weekly distance, cycling training time) and other data such as age group and runner age based category of the athletes. In this analysis The age based data were not included because they are categorical data with many categories that according to my estimation wouldn't help the prediction.
 
 ### Analysis and prediction
-To assess if I would be able to use this data to predict marathon times I checked for any correlation between the different variables and the actual marathon time of each athlete. 
-![alala](https://github.com/andtsouris/Data_Science_portoflio/blob/main/multivariate_linear_regression-Marathon_time_prediction/assets/marathonTime_distance_corPlot.jpg "title")
+To assess if I would be able to use this data to predict marathon times I checked for any correlation between the different variables and the actual marathon time of each athlete.
+Andreas Andreas
+<img src="https://github.com/andtsouris/Data_Science_portoflio/blob/main/multivariate_linear_regression-Marathon_time_prediction/assets/marathonTime_distance_corPlot.jpg" alt="Marathon Time vs Distance correlation plot" width="442" height="250">
