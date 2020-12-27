@@ -10,3 +10,5 @@ The data available at https://www.kaggle.com/girardi69/marathon-time-predictions
 To assess if I would be able to use this data to predict marathon times I checked for any correlation between the different variables and the actual marathon time of each athlete.  
 <img src="https://github.com/andtsouris/Data_Science_portoflio/blob/main/multivariate_linear_regression-Marathon_time_prediction/assets/marathonTime_distance_corPlot.jpg" alt="Marathon Time vs Distance correlation plot" width="442" height="250">
 <img src="https://github.com/andtsouris/Data_Science_portoflio/blob/main/multivariate_linear_regression-Marathon_time_prediction/assets/marathonTime_speed_corPlot.jpg" alt="Marathon Time vs Distance correlation plot" width="442" height="250">
+
+Both the average training speed and the weekly trainnig distance are correlated with the marathon time, as evidenced by the plots shown above. A linear model, lm() function, was used to estimate the athletes marathon time using their weekly training distance, average speed and cycling training time. The linear model was trained using 75% of the datapoints (65 athletes) using the following formulation. 
